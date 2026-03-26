@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/PAULO-VICTOR-SILVA-SANTOS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PAULO-VICTOR-SILVA-SANTOS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULO-VICTOR-SILVA-SANTOS&layout=compact&theme=algolia"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PAULO-VICTOR-SILVA-SANTOS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PAULO-VICTOR-SILVA-SANTOS&layout=compact&theme=algolia" />
   </a>
 </div>
 
