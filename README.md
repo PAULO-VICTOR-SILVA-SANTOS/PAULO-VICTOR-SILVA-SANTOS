@@ -1,9 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-<h1 align="center">Olá 👋, eu sou Paulo Victor</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1E293B&height=180&section=header&text=PAULO%20VICTOR&fontSize=38&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+
+<h1 align="center">⚡ Olá, eu sou Paulo Victor</h1>
+
 
 <p align="center">
-  💻 Desenvolvedor Full stack em formação <br>
-  🚀 Buscando minha primeira oportunidade como Dev Júnior
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Criando+interfaces+modernas;Focado+em+performance+e+UX;Sempre+aprendendo+novas+tecnologias" />
+</p>
+
+<p align="center">
+  💻 Desenvolvedor Full Stack em evolução constante <br>
+  🚀 Construindo aplicações modernas e soluções web profissionais
 </p>
 
 ---
@@ -19,15 +25,15 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+# 🚀 Tecnologias que utilizo #
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,nodejs,python,firebase,postgresql,git,github,vercel,vscode" />
+
 </div>
+
+---
 
 ---
 
@@ -44,10 +50,24 @@
 
 ## ✨ Sobre mim
 
-- 🎯 Focado em me tornar desenvolvedor Full stack
-- 📚 Estudando constantemente Desenvolvimento Full Stack Python | Análise e desenvoltimento de sistemas | N8N
-- 🔍 Em busca da minha primeira oportunidade na área
+```bash
+> Desenvolvedor Full Stack focado em evolução contínua,
+> criação de aplicações modernas e experiências digitais profissionais.
+
+> Atualmente estudando e desenvolvendo projetos com:
+- Análise e desenvolvimento de sistemas
+- Desenvolvimento Full Stack
+- React & Node.js
+- TypeScript
+- Python
+- APIs REST
+- N8N
+- Banco de Dados
+- Interfaces modernas
+- Performance e UX
 
 ---
+
+
 
 
