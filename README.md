@@ -56,7 +56,8 @@ Tenho **19 anos de experiência em gestão comercial e operacional** — o que m
 
 - ⚛️ Foco em **React**, **Next.js**, **TypeScript** e **JavaScript**
 - ⚙️ Back-end com **Node.js**, **Express** e **APIs REST**
-- 🗄️ Bancos de dados **MongoDB**, **Firebase** e **PostgreSQL**- 📦 Versionamento com **Git** e deploy via **Vercel** e **Render**
+- 🗄️ Bancos de dados **MongoDB**, **Firebase** e **PostgreSQL**
+- 📦 Versionamento com **Git** e deploy via **Vercel** e **Render**
 - 🤖 Automação com **N8N** e IA aplicada (**Claude**, **GitHub Copilot**)
 - 🎯 Projetos entregues para clientes reais em João Pessoa — PB
 - 📚 Cursando **ADS** e **Full Stack** em paralelo
