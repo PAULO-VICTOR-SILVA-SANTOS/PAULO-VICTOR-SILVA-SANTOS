@@ -36,7 +36,7 @@ const dev = {
   location:  "Cristo, João Pessoa — PB 🇧🇷",
   available:  true,
   focus:     ["React", "Next.js", "TypeScript", "Node.js"],
-  database:  ["MongoDB", "Firebase"],
+  database:  ["MongoDB", "Firebase", "PostgreSQL"],
   education: [
     "ADS — Cruzeiro do Sul Virtual (prev. 12/2026)",
     "Full Stack — EBAC (prev. 04/2026)",
@@ -56,8 +56,7 @@ Tenho **19 anos de experiência em gestão comercial e operacional** — o que m
 
 - ⚛️ Foco em **React**, **Next.js**, **TypeScript** e **JavaScript**
 - ⚙️ Back-end com **Node.js**, **Express** e **APIs REST**
-- 🗄️ Bancos de dados **MongoDB** e **Firebase**
-- 📦 Versionamento com **Git** e deploy via **Vercel** e **Render**
+- 🗄️ Bancos de dados **MongoDB**, **Firebase** e **PostgreSQL**- 📦 Versionamento com **Git** e deploy via **Vercel** e **Render**
 - 🤖 Automação com **N8N** e IA aplicada (**Claude**, **GitHub Copilot**)
 - 🎯 Projetos entregues para clientes reais em João Pessoa — PB
 - 📚 Cursando **ADS** e **Full Stack** em paralelo
@@ -89,6 +88,7 @@ Tenho **19 anos de experiência em gestão comercial e operacional** — o que m
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Ferramentas & Deploy**
 
