@@ -104,21 +104,18 @@ Tenho **19 anos de experiência em gestão comercial e operacional** — o que m
 ---
 ## 🚀 Projetos em Destaque
 
-## 🚀 Projetos
-
-| # | Projeto | Descrição | Stack | Link |
-|---|---|---|---|---|
-| 01 | 🛍️ **Castro Multimarcas** | Sistema completo de pedidos online — Full Stack com catálogo, carrinho e painel admin | React · TS · Node · Express | [▶ Ver](https://app-pedidos-loja-cliente.vercel.app/) |
-| 02 | 🍱 **QuentinhaApp** | Sistema de gestão para marmitarias — cardápio digital, PIX automático e painel de pedidos Kanban — cliente real | React · TS · Vite · Tailwind · Mercado Pago | [▶ Ver](https://marmita-app.vercel.app/) |
-| 03 | 🖥️ **Oxen TI** | Website institucional para empresa de tecnologia — cliente real | React · TS · Vite · CSS3 | [▶ Ver](https://site-oxen-ti.vercel.app/) |
-| 04 | 🎨 **PigControl** | App de gestão de estoque e custos de pigmentos para pintura automotiva — cliente real | React · TS · Vite · LocalStorage | [▶ Ver](https://pigcontrol-controle-de-pigmentos.vercel.app/) |
-| 05 | 🍔 **eFood** | App de delivery com cardápio dinâmico, carrinho, checkout e consumo de API REST | React · TS · Redux · Vite | [▶ Ver](https://efood-restaurantes-eight.vercel.app/) |
-| 06 | 🎬 **Clone Disney+** | Réplica fiel da landing do Disney+ com Sass, Gulp e layout responsivo | HTML · SCSS · Gulp · JS | [▶ Ver](https://clone-disneyplus-orpin-ten.vercel.app/) |
-| 07 | 🐦 **Flappy Bird** | Jogo em Java com POO, lógica de colisão e interface gráfica | Java · POO · GUI | [▶ Ver](https://jogo-flapp-bird.vercel.app/) |
-| 08 | 💅 **Libânia Estética** | Site institucional para negócio real com serviços e contato | HTML · CSS · Git | [▶ Ver](https://primeiro-site-estetica.vercel.app/) |
-| 08 | 🖌️ **Lugar das Tintas** | Catálogo online com foco em conversão e responsividade | HTML · CSS · JS · Bootstrap | [▶ Ver](https://site-lugardastintas.vercel.app/) |
-
----
+| #  | Projeto                              | Descrição                                                                                          | Stack                                     | Link                                                              |
+| --- | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------ |
+| 01 | 🧾 **Controle de Fiado Inteligente**  | SaaS para pequenos comerciantes controlarem vendas fiado — dashboard gerencial, cobrança automatizada via WhatsApp e parcelamento de compras | React · TS · Node · Express · PostgreSQL   | [▶ Ver](https://controle-de-fiado-inteligente.vercel.app)          |
+| 02 | 🛍️ **Castro Multimarcas**            | Sistema completo de pedidos online — Full Stack com catálogo, carrinho e painel admin                 | React · TS · Node · Express                | [▶ Ver](https://app-pedidos-loja-cliente.vercel.app/)              |
+| 03 | 🍱 **QuentinhaApp**                   | Sistema de gestão para marmitarias — cardápio digital, PIX automático e painel de pedidos Kanban — cliente real | React · TS · Vite · Tailwind · Mercado Pago | [▶ Ver](https://marmita-app.vercel.app/)                           |
+| 04 | 🖥️ **Oxen TI**                       | Website institucional para empresa de tecnologia — cliente real                                       | React · TS · Vite · CSS3                   | [▶ Ver](https://site-oxen-ti.vercel.app/)                          |
+| 05 | 🎨 **PigControl**                     | App de gestão de estoque e custos de pigmentos para pintura automotiva — cliente real                 | React · TS · Vite · LocalStorage           | [▶ Ver](https://pigcontrol-controle-de-pigmentos.vercel.app/)      |
+| 06 | 🍔 **eFood**                          | App de delivery com cardápio dinâmico, carrinho, checkout e consumo de API REST                       | React · TS · Redux · Vite                  | [▶ Ver](https://efood-restaurantes-eight.vercel.app/)              |
+| 07 | 🎬 **Clone Disney+**                  | Réplica fiel da landing do Disney+ com Sass, Gulp e layout responsivo                                 | HTML · SCSS · Gulp · JS                    | [▶ Ver](https://clone-disneyplus-orpin-ten.vercel.app/)            |
+| 08 | 🐦 **Flappy Bird**                    | Jogo em Java com POO, lógica de colisão e interface gráfica                                           | Java · POO · GUI                           | [▶ Ver](https://jogo-flapp-bird.vercel.app/)                       |
+| 09 | 💅 **Libânia Estética**               | Site institucional para negócio real com serviços e contato                                           | HTML · CSS · Git                           | [▶ Ver](https://primeiro-site-estetica.vercel.app/)                |
+| 10 | 🖌️ **Lugar das Tintas**              | Catálogo online com foco em conversão e responsividade                                                | HTML · CSS · JS · Bootstrap                | [▶ Ver](https://site-lugardastintas.vercel.app/)                   |
 
 ## 📊 GitHub Stats
 
