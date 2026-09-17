@@ -53,7 +53,7 @@ contact: "paulinhovictor852@gmail.com",
 
 Desenvolvedor **Full Stack** com **React, Next.js, Node.js, Python (FastAPI) e TypeScript**, criando aplicações web de ponta a ponta, focadas em performance e experiência do usuário.
 
-Tenho **19 anos de experiência em gestão comercial e operacional** — o que me dá uma visão de negócio diferenciada na hora de desenvolver soluções digitais reais para clientes reais. Não entrego só código: entrego solução.
+Tenho **15 anos de experiência em gestão comercial e operacional** — o que me dá uma visão de negócio diferenciada na hora de desenvolver soluções digitais reais para clientes reais. Não entrego só código: entrego solução.
 
 - ⚛️ Foco em **React**, **Next.js**, **TypeScript** e **JavaScript**
 - ⚙️ Back-end com **Node.js/Express** e **Python/FastAPI**, com **APIs REST**
